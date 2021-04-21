@@ -4,7 +4,7 @@ import AboutPage from './about/AboutPage';
 import Homepage from './home/HomePage';
 import Header from './common/Header'
 import PageNotFound from './PageNotFound';
-import CoursesPage from '../courses/CoursesPage';
+import CoursesPage from '../components/courses/CoursesPage';
 
 const App = () => (
     <div className='container-fluid'>
